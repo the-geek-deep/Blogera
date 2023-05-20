@@ -1,6 +1,6 @@
 # Blogera
 
-This is a simple Blog-posting Website for you all to share your ideas and stand in the satdium of ideas formed by the people all over the world.
+This is a simple Blog-posting Website for you all to share your ideas and stand in the stadium of ideas formed by the people all over the world.
 
 Tech Stack : 
 1. HTML
