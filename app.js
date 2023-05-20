@@ -30,7 +30,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // Routes
-pp.use('/auth', authRoutes);
+app.use('/auth', authRoutes);
 app.use('/posts', postRoutes);
 
 module.exports = app;
