@@ -5,4 +5,7 @@ This is a simple Blog-posting Website for you all to share your ideas and stand 
 Tech Stack : 
 1. HTML
 2. CSS
-3. 
+3. nodeJS
+4. mongoDB
+5. JWT Authentication
+6. express
