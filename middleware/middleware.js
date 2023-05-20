@@ -1,4 +1,4 @@
-const jwt = require('jsonwebtoken');
+import  jwt from  'jsonwebtoken';
 import dotnenv from 'dotenv';
 dotnenv.config();
 const secretKey = process.env.SECRET_KEY;

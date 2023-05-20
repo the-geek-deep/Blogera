@@ -1,5 +1,7 @@
-const express = require('express');
-const postController = require('../controllers/postController');
+import express from 'express';
+import postController from '../../controllers/postController';
+import authController from '../../controllers/authController';
+
 const authMiddleware = require('../middleware/authMiddleware');
 
 const router = express.Router();
